@@ -1,6 +1,6 @@
-# SJTU EE0505 Course Project
+# SJTU EE0503 Course Project
 
-Course Project of SJTU EE0505 (Engineering Practice and Technological Innovation II) By Group 47 (2023-2024-2).
+Course Project of SJTU EE0503 (Engineering Practice and Technological Innovation II) By Group 47 (2023-2024-2).
 
 ## Overview
 
@@ -12,7 +12,7 @@ Source file in the following list is provided by 上海交通大学电子工程�
 - LM75BD.c, LB75BD.h
 - tm1638.c, tm1638.h
 
-Other codes in the following list is written by EE0505(2023-2024-2) Group 47.
+Other codes in the following list is written by EE0503(2023-2024-2) Group 47.
 - main_receiver.c: main for receiver
 - main_transmitter.c: main for transmitter
 - common.c, common.h: common functions shared by receiver and transmitter
